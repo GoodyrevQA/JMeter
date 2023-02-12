@@ -7,4 +7,5 @@
 [![JMETER](https://img.shields.io/badge/-JMeter-24292f??style=for-the-badge&logo=JMeter&logoColor=f43010)](https://github.com/GoodyrevQA/JMeter)
 [![Git](https://img.shields.io/badge/-Git-24292f??style=for-the-badge&logo=Git&logoColor=f43010)](https://github.com/GoodyrevQA)
 
-Нагрузочные тесты для двух запросов в JMeter с прокидыванием токена из одного в другой
+Нагрузочные тесты для двух запросов в JMeter с прокидыванием токена из одного в другой.  
+
